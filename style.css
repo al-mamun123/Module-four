@@ -1,0 +1,93 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.span{
+    color: orange;
+}
+h3{
+    font-size: 20px;
+}
+p{
+    text-align: ;
+}
+button{
+     color: white;
+    background: orange;
+    padding: 5px;
+    padding-left: 0px;
+    width: 160px;
+    font-size: 16px;
+    text-transform: uppercase;
+    border-radius: 6px;
+}
+.first{
+    background-image: url("images/top-banner.png");
+     background-repeat: no-repeat;
+}
+.section{
+    height: 500px;
+}
+.header{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+
+
+
+
+.header img{
+    width: 100%;
+}
+.middle-part{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.middle-part img{
+    width: 100%;
+}
+.experience{
+    display: inline-flex;
+}
+
+
+
+.first-ex h3{}
+.first-ex p{}
+
+.second-ex h3{}
+.second-ex p{}
+.h4{
+    color: orange;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    width: 600px;
+    height: 200px;
+}
+#full{
+    border-left: 7px solid;
+   border-image: linear-gradient(180deg, salmon ,tomato);
+    border-image-slice: 1;
+}
+#less{
+     border-left: 7px solid;
+   border-image: linear-gradient(180deg, blue ,tomato);
+    border-image-slice: 1;
+}
+.experience{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+}
+.footer{
+    text-align: center;
+    margin-top: 30px;
+}
